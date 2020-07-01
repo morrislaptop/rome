@@ -8,7 +8,7 @@
 
 Building upon a shared base allows us to provide a cohesive experience for processing code, displaying errors, parallelizing work, caching, and configuration.
 
-**Rome** has strong conventions and we aim to have minimal configuration. By using Rome you accept the conventions we have set. Read more about our philosophy [here](/contributing/philosophy).
+**Rome** has strong conventions and we aim to have minimal configuration. By using Rome you accept the conventions we have set. Read more about our philosophy [here](/website/src/contributing/philosophy.md).
 
 **Rome** is maintained by a [team of contributors](/contributing/team). **Rome** was started by [Sebastian McKenzie](https://twitter.com/sebmck), the author of [Babel](https://babeljs.io) and [Yarn](https://yarnpkg.com).
 
